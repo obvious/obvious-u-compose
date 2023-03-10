@@ -28,10 +28,22 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task3/compose.lesson1-task3.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task3/compose.lesson1-task3.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task3/compose.lesson1-task3.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task3/compose.lesson1-task3.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task3/compose.lesson1-task3.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task3/compose.lesson1-task3.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson2/task1/compose.lesson2-task1.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson2/task1/compose.lesson2-task1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson2-task1/library/compose.lesson2-task1-library.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson2-task1/library/compose.lesson2-task1-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson2/task1/compose.lesson2-task1.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson2/task1/compose.lesson2-task1.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson2/task1/library/compose.lesson2-task1.library.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson2/task1/library/compose.lesson2-task1.library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson2/task1/library/compose.lesson2-task1.library.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson2/task1/library/compose.lesson2-task1.library.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson2/task1/library/compose.lesson2-task1.library.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson2/task1/library/compose.lesson2-task1.library.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson2/task1/library/compose.lesson2-task1.library.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson2/task1/library/compose.lesson2-task1.library.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson2/task1/compose.lesson2-task1.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson2/task1/compose.lesson2-task1.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson2/task1/compose.lesson2-task1.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson2/task1/compose.lesson2-task1.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/compose.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/compose.util.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task1/library/library.compose.lesson1-task1-library.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task1/library/library.compose.lesson1-task1-library.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task1/library/library.compose.lesson1-task1-library.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task1/library/library.compose.lesson1-task1-library.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task1/library/library.compose.lesson1-task1-library.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task1/library/library.compose.lesson1-task1-library.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson2/task1/library/library.compose.lesson2-task1-library.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson2/task1/library/library.compose.lesson2-task1-library.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson2/task1/library/library.compose.lesson2-task1-library.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson2/task1/library/library.compose.lesson2-task1-library.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson2/task1/library/library.compose.lesson2-task1-library.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson2/task1/library/library.compose.lesson2-task1-library.unitTest.iml" />
     </modules>
   </component>
 </project>

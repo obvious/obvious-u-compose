@@ -39,3 +39,4 @@ def isTaskDir(File dir) {
 
 include 'util'
 include ':lesson1-task1:library'
+include ':lesson2-task1:library'
