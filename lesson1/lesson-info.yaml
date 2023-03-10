@@ -2,3 +2,4 @@ type: framework
 custom_name: Basics
 content:
 - task1
+- task2

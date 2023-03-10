@@ -12,6 +12,14 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task1/library/compose.lesson1-task1.library.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task1/library/compose.lesson1-task1.library.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task1/compose.lesson1-task1.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task1/compose.lesson1-task1.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task1/compose.lesson1-task1.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task1/compose.lesson1-task1.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task2/compose.lesson1-task2.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task2/compose.lesson1-task2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task2/library/compose.lesson1-task2-library.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task2/library/compose.lesson1-task2-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task2/library/compose.lesson1-task2-library.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task2/library/compose.lesson1-task2-library.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task2/library/compose.lesson1-task2-library.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task2/library/compose.lesson1-task2-library.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task2/library/compose.lesson1-task2-library.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task2/library/compose.lesson1-task2-library.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task2/compose.lesson1-task2.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task2/compose.lesson1-task2.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task2/compose.lesson1-task2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task2/compose.lesson1-task2.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task2/compose.lesson1-task2.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task2/compose.lesson1-task2.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/compose.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/compose.util.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task1/library/library.compose.lesson1-task1-library.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task1/library/library.compose.lesson1-task1-library.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task1/library/library.compose.lesson1-task1-library.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task1/library/library.compose.lesson1-task1-library.main.iml" />
