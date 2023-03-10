@@ -1,4 +1,0 @@
-#Fri Mar 10 13:27:18 IST 2023
-base.0=/Users/noyal/projects/obvious/obv-u-prep/compose/lesson1/task1/build/intermediates/dex/release/mergeDexRelease/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
