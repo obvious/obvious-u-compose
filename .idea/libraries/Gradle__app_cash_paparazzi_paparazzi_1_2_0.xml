@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: app.cash.paparazzi:paparazzi:1.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/app.cash.paparazzi/paparazzi/1.2.0/d573a17329456488b0b499c4d11786a8cd11c174/paparazzi-1.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/app.cash.paparazzi/paparazzi/1.2.0/4bef6c82f9ddb7a8d41ea0361df7cebb999bda60/paparazzi-1.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/app.cash.paparazzi/paparazzi/1.2.0/439d574e6c29c4c9a5d28818a32b73e61d2a05c0/paparazzi-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

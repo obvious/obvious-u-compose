@@ -1,0 +1,13 @@
+type: marketplace
+title: Compose
+language: English
+summary: "Are you tired of writing endless lines of code to create beautiful and efficient\
+  \ UIs? Want to simplify your development process and create amazing user experiences\
+  \ with ease? Look no further, because Jetpack Compose is here! Embrace the power\
+  \ of simplicity and speed with Jetpack Compose and create UIs that will leave your\
+  \ users wanting more. So why wait? Start learning Jetpack Compose today and elevate\
+  \ your UI development game!"
+programming_language: Kotlin
+environment: Android
+content:
+- lesson1

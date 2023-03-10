@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.testparameterinjector:test-parameter-injector:1.10">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.testparameterinjector/test-parameter-injector/1.10/bce28acf5f69a49da41f78643f24a3d5bfb4c4f1/test-parameter-injector-1.10.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.testparameterinjector/test-parameter-injector/1.10/b202db607b2e360eacf0a5d4119c7807908ccbea/test-parameter-injector-1.10-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.testparameterinjector/test-parameter-injector/1.10/d180fc55170ef17c9150e426f0d7701694a84b86/test-parameter-injector-1.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

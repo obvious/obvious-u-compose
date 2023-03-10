@@ -1,0 +1,16 @@
+#Fri Mar 10 13:31:09 IST 2023
+path.4=8/classes.dex
+path.3=0/classes.dex
+path.2=2/classes.dex
+path.1=12/classes.dex
+path.0=classes.dex
+base.4=/Users/noyal/projects/obvious/obv-u-prep/compose/lesson1/task1/build/intermediates/dex/debug/mergeProjectDexDebug/8/classes.dex
+base.3=/Users/noyal/projects/obvious/obv-u-prep/compose/lesson1/task1/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.2=/Users/noyal/projects/obvious/obv-u-prep/compose/lesson1/task1/build/intermediates/dex/debug/mergeLibDexDebug/2/classes.dex
+base.1=/Users/noyal/projects/obvious/obv-u-prep/compose/lesson1/task1/build/intermediates/dex/debug/mergeLibDexDebug/12/classes.dex
+base.0=/Users/noyal/projects/obvious/obv-u-prep/compose/lesson1/task1/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+renamed.4=classes5.dex
