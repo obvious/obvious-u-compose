@@ -14,6 +14,8 @@
           <stringArguments>
             <stringArg name="classpath">
               <args>
+                <arg>$MODULE_DIR$/../../../../lesson1/task2/build/intermediates/compile_app_classes_jar/debug/classes.jar</arg>
+                <arg>$MODULE_DIR$/../../../../lesson1/task2/library/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/feb24e39fb03b8e5e3964c022a3c9964/transformed/jetified-kotlin-stdlib-jdk8-1.7.20.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/35593de28763b9bc7e7b4940cd8fd89b/transformed/jetified-kotlin-stdlib-jdk7-1.7.20.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/51c8c410716f7080af5c678bfe5902df/transformed/jetified-kotlin-stdlib-1.7.20.jar</arg>

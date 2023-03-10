@@ -26,6 +26,7 @@
           <stringArguments>
             <stringArg name="classpath">
               <args>
+                <arg>$MODULE_DIR$/../../../../../lesson1/task2/library/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/4cf6f22a3848e7a4a31d7fdf26ef4948/transformed/jetified-ui-test-junit4-1.3.2-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/80c01934d91de7b91eff513c363619dc/transformed/jetified-ui-tooling-1.3.2-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/070c681930f9835cd63d2c2344c87451/transformed/jetified-material-1.3.1-api.jar</arg>
