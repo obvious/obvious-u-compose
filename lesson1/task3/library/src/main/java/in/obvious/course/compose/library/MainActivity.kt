@@ -34,6 +34,10 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+private val rubikFont = FontFamily(Font(R.font.rubik_regular))
+private val purpleColor = Color(0xFF9E2BCF)
+private val greyColor = Color(0xFFB4BFCB)
+
 @Composable
 @Preview
 fun MainLayout() {
