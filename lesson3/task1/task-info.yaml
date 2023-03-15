@@ -27,3 +27,23 @@ files:
   visible: true
 - name: library/src/main/res/values/strings.xml
   visible: true
+- name: library/src/main/java/in/obvious/course/compose/library/FoodItemWithOverlay.kt
+  visible: true
+- name: library/src/main/res/font/proxima_nova_bold.otf
+  visible: true
+- name: library/src/main/res/font/proxima_nova_black.otf
+  visible: true
+- name: library/src/main/res/font/proxima_nova_semi_bold.otf
+  visible: true
+- name: library/src/main/res/font/basis_grotesque_arabic_pro_bold.ttf
+  visible: true
+- name: library/src/main/res/font/basis_grotesque_arabic_pro_regular.ttf
+  visible: true
+- name: library/src/main/res/drawable/ic_star.xml
+  visible: true
+- name: library/src/main/res/drawable/ic_festival.xml
+  visible: true
+- name: library/src/main/res/drawable/food_item_placeholder.png
+  visible: true
+- name: library/src/test/java/in/obvious/course/compose/library/MainActivityTest.kt
+  visible: true
