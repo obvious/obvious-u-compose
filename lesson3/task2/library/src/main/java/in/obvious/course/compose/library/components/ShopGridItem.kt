@@ -1,4 +1,4 @@
-package `in`.obvious.course.compose.library
+package `in`.obvious.course.compose.library.components
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
@@ -17,6 +17,8 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import `in`.obvious.course.compose.library.*
+import `in`.obvious.course.compose.library.R
 
 @Composable
 fun ShopGridItem(
