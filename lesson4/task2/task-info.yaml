@@ -1,7 +1,9 @@
 type: edu
-custom_name: Counter
+custom_name: Expanding Chip
 files:
 - name: library/src/main/java/in/obvious/course/compose/library/MainActivity.kt
+  visible: true
+- name: library/.gitignore
   visible: true
 - name: build.gradle
   visible: true
@@ -9,17 +11,15 @@ files:
   visible: true
 - name: library/src/main/AndroidManifest.xml
   visible: true
-- name: library/src/androidTest/java/in/obvious/course/compose/library/ExampleInstrumentedTest.kt
+- name: library/src/test/java/in/obvious/course/compose/library/ExampleUnitTest.kt
   visible: true
-- name: library/.gitignore
+- name: library/src/androidTest/java/in/obvious/course/compose/library/ExampleInstrumentedTest.kt
   visible: true
 - name: library/build.gradle
   visible: true
 - name: library/consumer-rules.pro
   visible: true
 - name: library/proguard-rules.pro
-  visible: true
-- name: library/src/main/res/font/rubik_regular.ttf
   visible: true
 - name: library/src/main/res/values/themes.xml
   visible: true
@@ -31,5 +31,9 @@ files:
   visible: true
 - name: library/src/main/java/in/obvious/course/compose/library/theme/Theme.kt
   visible: true
-- name: library/src/test/java/in/obvious/course/compose/library/ExampleUnitTest.kt
+- name: library/src/main/res/font/raleway_bold.ttf
+  visible: true
+- name: library/src/main/res/font/raleway_regular.ttf
+  visible: true
+- name: library/src/main/res/font/raleway_semi_bold.ttf
   visible: true
