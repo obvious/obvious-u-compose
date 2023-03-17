@@ -9,8 +9,6 @@ files:
   visible: true
 - name: library/src/main/AndroidManifest.xml
   visible: true
-- name: library/src/androidTest/java/in/obvious/course/compose/library/ExampleInstrumentedTest.kt
-  visible: true
 - name: library/.gitignore
   visible: true
 - name: library/build.gradle
@@ -30,6 +28,4 @@ files:
 - name: library/src/main/java/in/obvious/course/compose/library/theme/Color.kt
   visible: true
 - name: library/src/main/java/in/obvious/course/compose/library/theme/Theme.kt
-  visible: true
-- name: library/src/test/java/in/obvious/course/compose/library/ExampleUnitTest.kt
   visible: true
