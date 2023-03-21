@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearance.Chip.Chat" parent="TextAppearance.MaterialComponents.Chip">
+        <item name="fontFamily">@font/plus_jakarta_sans_medium</item>
+    </style>
+    <style name="TextAppearance.Toolbar.Title" parent="TextAppearance.AppCompat.Title">
+        <item name="fontFamily">@font/plus_jakarta_sans_medium</item>
+    </style>
+</resources>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ChatActivity">
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:elevation="0dp"
+        app:title="Recent Chats"
+        app:titleTextColor="#1B1A57" />
+
+    <com.google.android.material.chip.ChipGroup
+        android:id="@+id/chatSelectionChipGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="6dp"
+        app:checkedChip="@+id/allChat"
+        app:selectionRequired="true"
+        app:singleSelection="true">
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/allChat"
+            style="@style/Widget.MaterialComponents.Chip.Choice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/chip_background"
+            android:text="All Chats"
+            android:textAppearance="@style/TextAppearance.Chip.Chat"
+            android:textColor="@color/chip_text_color" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/personal"
+            style="@style/Widget.MaterialComponents.Chip.Choice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/chip_background"
+            android:text="Personal"
+            android:textAppearance="@style/TextAppearance.Chip.Chat"
+            android:textColor="@color/chip_text_color" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/work"
+            style="@style/Widget.MaterialComponents.Chip.Choice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/chip_background"
+            android:text="Work"
+            android:textAppearance="@style/TextAppearance.Chip.Chat"
+            android:textColor="@color/chip_text_color" />
+
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/groups"
+            style="@style/Widget.MaterialComponents.Chip.Choice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/chip_background"
+            android:text="Groups"
+            android:textColor="@color/chip_text_color"
+            app:fontFamily="@font/plus_jakarta_sans_medium" />
+    </com.google.android.material.chip.ChipGroup>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        tools:listitem="@layout/item_chat" />
+</LinearLayout>
