@@ -6,10 +6,11 @@
         android:allowBackup="true"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Chat"
+        android:theme="@style/Theme.ComposePlayground"
         tools:targetApi="33">
         <activity
-            android:name=".library.ComposeChatActivity"
+            android:windowSoftInputMode="adjustResize"
+            android:name=".library.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
