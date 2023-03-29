@@ -2,3 +2,4 @@ type: framework
 custom_name: Extend Material Theme
 content:
 - task1
+- task2
