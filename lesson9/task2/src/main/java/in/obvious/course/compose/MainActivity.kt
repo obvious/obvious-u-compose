@@ -22,7 +22,7 @@ class MainActivity : ComponentActivity() {
 @Preview
 @Composable
 fun MovieDetailScreenPreview() {
-    ComposePlaygroundTheme(darkTheme = false) {
+    ComposePlaygroundTheme(darkTheme = true) {
         MovieDetail(movies = movieList)
     }
 }

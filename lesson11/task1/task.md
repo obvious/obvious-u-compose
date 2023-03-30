@@ -1,0 +1,2 @@
+1. Implement the design system provided in [Figma](https://www.figma.com/file/NMUil2rjEBCiLCoEf4nLEU/%F0%9F%A6%A9-Flamingo-Design-System-(Community)-(Community)?node-id=1074-0&t=NYWOhi8EdSnRuMHM-0)
+2. Apply the custom theme created to [FlamingoScreen](course://lesson11/task1/src/main/java/in/obvious/course/compose/MainActivity.kt) composable with reference to [Figma design](https://www.figma.com/file/NMUil2rjEBCiLCoEf4nLEU/%F0%9F%A6%A9-Flamingo-Design-System-(Community)-(Community)?node-id=577-3&t=NYWOhi8EdSnRuMHM-0)
