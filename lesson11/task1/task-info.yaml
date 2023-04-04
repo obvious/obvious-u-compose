@@ -1,5 +1,5 @@
 type: edu
-custom_name: Flamingo theme
+custom_name: Custom DLS
 files:
 - name: src/main/java/in/obvious/course/compose/MainActivity.kt
   visible: true
@@ -8,12 +8,6 @@ files:
 - name: src/main/AndroidManifest.xml
   visible: true
 - name: src/main/res/values/strings.xml
-  visible: true
-- name: src/main/res/font/sf_pro_display_bold.ttf
-  visible: true
-- name: src/main/res/font/sf_pro_display_heavy.ttf
-  visible: true
-- name: src/main/res/font/sf_pro_display_regular.ttf
   visible: true
 - name: src/main/res/drawable/ic_menu.xml
   visible: true
@@ -25,7 +19,9 @@ files:
   visible: true
 - name: src/main/java/in/obvious/course/compose/theme/Color.kt
   visible: true
-- name: src/main/java/in/obvious/course/compose/theme/Shape.kt
-  visible: true
 - name: src/main/java/in/obvious/course/compose/theme/Theme.kt
+  visible: true
+- name: src/main/res/font/rubik_medium.ttf
+  visible: true
+- name: src/main/res/font/rubik_regular.ttf
   visible: true

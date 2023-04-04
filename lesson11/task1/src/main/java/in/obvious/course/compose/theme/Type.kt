@@ -9,6 +9,7 @@ import androidx.compose.ui.unit.sp
 import `in`.obvious.course.compose.R
 
 
-
-// Set of Material typography styles to start with
-val Typography = Typography()
+val rubikFont = FontFamily(
+    Font(resId = R.font.rubik_regular, weight = FontWeight.Normal),
+    Font(resId = R.font.rubik_medium, weight = FontWeight.Medium)
+)

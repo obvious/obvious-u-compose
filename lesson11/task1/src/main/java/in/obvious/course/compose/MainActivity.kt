@@ -1,12 +1,12 @@
 package `in`.obvious.course.compose
 
 import android.os.Bundle
-import android.widget.Toolbar
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.*
-import androidx.compose.foundation.text.BasicText
+import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.*
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
@@ -22,7 +22,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             ComposePlaygroundTheme {
-                FlamingoScreen()
+                InfoScreen()
             }
         }
     }
@@ -30,9 +30,13 @@ class MainActivity : ComponentActivity() {
 
 @Preview(showBackground = true)
 @Composable
-fun FlamingoScreen(modifier: Modifier = Modifier) {
+fun InfoScreen(modifier: Modifier = Modifier) {
     Box(modifier = modifier.fillMaxSize()) {
-        Column(modifier = Modifier.align(Alignment.TopCenter)) {
+        Column(
+            modifier = Modifier
+                .align(Alignment.TopCenter)
+                .verticalScroll(rememberScrollState())
+        ) {
             Toolbar()
             Divider()
             ErrorContent(
@@ -50,7 +54,6 @@ fun FlamingoScreen(modifier: Modifier = Modifier) {
             )
         }
         ActionButton(modifier = Modifier.align(Alignment.BottomCenter))
-
     }
 }
 
@@ -67,31 +70,9 @@ fun Toolbar(modifier: Modifier = Modifier) {
                     contentDescription = null
                 )
             }
-        }, title = {},
-        actions = {
-            UserButton(username = "Flamingo")
-        })
+        }, title = {})
 }
 
-@Composable
-fun UserButton(
-    username: String,
-    modifier: Modifier = Modifier
-) {
-    OutlinedButton(
-        modifier = modifier,
-        onClick = { /*TODO*/ }
-    ) {
-        Text(
-            text = username,
-        )
-        Spacer(modifier = Modifier.width(8.dp))
-        Icon(
-            painter = painterResource(id = R.drawable.ic_menu_vertical),
-            contentDescription = null
-        )
-    }
-}
 
 @Composable
 fun ErrorContent(
