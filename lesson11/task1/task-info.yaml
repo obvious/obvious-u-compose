@@ -25,3 +25,5 @@ files:
   visible: true
 - name: src/main/res/font/rubik_regular.ttf
   visible: true
+- name: src/main/java/in/obvious/course/compose/theme/DLSThemeColors.kt
+  visible: true
