@@ -1,0 +1,21 @@
+type: edu
+custom_name: Animated text
+files:
+- name: src/main/java/in/obvious/course/compose/MainActivity.kt
+  visible: true
+- name: build.gradle
+  visible: true
+- name: src/main/AndroidManifest.xml
+  visible: true
+- name: src/main/res/values/strings.xml
+  visible: true
+- name: src/main/res/values/themes.xml
+  visible: true
+- name: src/main/java/in/obvious/course/compose/theme/Type.kt
+  visible: true
+- name: src/main/java/in/obvious/course/compose/theme/Color.kt
+  visible: true
+- name: src/main/java/in/obvious/course/compose/theme/Theme.kt
+  visible: true
+- name: assets/ezgif-4-e1b44aaa62.gif
+  visible: true
