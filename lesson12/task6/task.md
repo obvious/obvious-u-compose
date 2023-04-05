@@ -1,4 +1,4 @@
-Animate the shape and color change of `Box` inside the [ShapeShifter]() composable
+Animate the shape and color change of `Box` inside the [ShapeShifter](course://lesson12/task6/src/main/java/in/obvious/course/compose/MainActivity.kt) composable
 
 __
 
