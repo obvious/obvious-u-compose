@@ -1,0 +1,23 @@
+type: edu
+custom_name: Keyframe
+files:
+- name: src/main/java/in/obvious/course/compose/MainActivity.kt
+  visible: true
+- name: build.gradle
+  visible: true
+- name: src/main/AndroidManifest.xml
+  visible: true
+- name: src/main/res/values/strings.xml
+  visible: true
+- name: src/main/java/in/obvious/course/compose/theme/Type.kt
+  visible: true
+- name: src/main/java/in/obvious/course/compose/theme/Color.kt
+  visible: true
+- name: src/main/java/in/obvious/course/compose/theme/Theme.kt
+  visible: true
+- name: src/main/res/drawable/fan.xml
+  visible: true
+- name: src/main/res/values/themes.xml
+  visible: true
+- name: assets/ezgif-2-831e730d4c.gif
+  visible: true
