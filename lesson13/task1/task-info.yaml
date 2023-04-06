@@ -1,5 +1,5 @@
 type: edu
-custom_name: Spring Fan
+custom_name: Spring fan
 files:
 - name: src/main/java/in/obvious/course/compose/MainActivity.kt
   visible: true
@@ -14,4 +14,10 @@ files:
 - name: src/main/java/in/obvious/course/compose/theme/Color.kt
   visible: true
 - name: src/main/java/in/obvious/course/compose/theme/Theme.kt
+  visible: true
+- name: assets/ezgif-2-e549ee40ea.gif
+  visible: true
+- name: src/main/res/values/themes.xml
+  visible: true
+- name: src/main/res/drawable/fan.xml
   visible: true
