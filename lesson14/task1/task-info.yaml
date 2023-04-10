@@ -1,0 +1,33 @@
+type: edu
+custom_name: Add button
+files:
+- name: src/main/java/in/obvious/course/compose/MainActivity.kt
+  visible: true
+- name: build.gradle
+  visible: true
+- name: src/main/AndroidManifest.xml
+  visible: true
+- name: src/main/res/values/strings.xml
+  visible: true
+- name: src/main/java/in/obvious/course/compose/theme/Type.kt
+  visible: true
+- name: src/main/java/in/obvious/course/compose/theme/Color.kt
+  visible: true
+- name: src/main/java/in/obvious/course/compose/theme/Theme.kt
+  visible: true
+- name: src/main/res/values/themes.xml
+  visible: true
+- name: src/main/res/drawable/ic_add_large.xml
+  visible: true
+- name: src/main/res/drawable/ic_add_small.xml
+  visible: true
+- name: src/main/res/drawable/ic_remove_large.xml
+  visible: true
+- name: src/main/res/drawable/ic_remove_small.xml
+  visible: true
+- name: src/main/res/font/basis_grotesque_pro_black.ttf
+  visible: true
+- name: src/main/res/font/basis_grotesque_pro_medium.ttf
+  visible: true
+- name: src/main/res/font/basis_grotesque_pro_regular.ttf
+  visible: true
