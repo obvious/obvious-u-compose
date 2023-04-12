@@ -1,0 +1,29 @@
+type: edu
+custom_name: Interactive TabBar
+files:
+- name: src/main/java/in/obvious/course/compose/MainActivity.kt
+  visible: true
+- name: build.gradle
+  visible: true
+- name: src/main/AndroidManifest.xml
+  visible: true
+- name: src/main/res/values/strings.xml
+  visible: true
+- name: src/main/java/in/obvious/course/compose/theme/Type.kt
+  visible: true
+- name: src/main/java/in/obvious/course/compose/theme/Color.kt
+  visible: true
+- name: src/main/java/in/obvious/course/compose/theme/Theme.kt
+  visible: true
+- name: src/main/res/values/themes.xml
+  visible: true
+- name: src/main/res/drawable/ic_profile.xml
+  visible: true
+- name: src/main/res/drawable/ic_contact.xml
+  visible: true
+- name: src/main/res/drawable/ic_add.xml
+  visible: true
+- name: src/main/res/drawable/ic_list.xml
+  visible: true
+- name: src/main/res/drawable/ic_home.xml
+  visible: true
