@@ -1,0 +1,4 @@
+type: framework
+custom_name: App with Compose
+content:
+- task1
